@@ -45,3 +45,11 @@ Solo deberás modificar el contenido para que corresponda con el nombre y el usu
 Contiene un fichero `main.py` que resolverá todo. 
 
 
+## API
+```
+# https://www.codewars.com/api/v1/users/Livia Canet/code-challenges/completed
+```
+
+
+
+
