@@ -1,15 +1,15 @@
-username,regexp-fun-number-1-when-i-miss-few-days-of-gym,deodorant-evaporator,ordered-count-of-characters,reverse-or-rotate,the-deaf-rats-of-hamelin,read-the-time,scraping-get-the-year-a-codewarrior-joined,user-class-for-banking-system,moving-average,replace-with-alphabet-position
-paulapr,True,True,True,False,False,True,True,True,False,True
-Almugs,False,True,True,False,True,True,False,True,False,True
-hector-moreno,True,True,True,False,True,True,True,True,True,True
-potacho,True,True,False,False,True,False,False,False,True,False
-carlosmd14,True,True,True,True,True,True,True,True,True,True
-Livia Canet,True,True,False,False,False,False,False,True,True,True
-AlejandroFrank,True,False,True,False,True,False,True,True,True,True
-AlejandroPerela,True,True,True,False,True,True,True,True,True,True
-leyremarazuela,False,False,False,False,True,False,True,True,False,True
-LauraRepullo,False,False,True,False,False,False,False,False,False,True
-pecatade,True,True,True,True,True,True,True,True,True,True
-NicoST1,True,True,True,False,False,True,True,True,True,True
-lmartinezruizit,True,True,True,True,True,True,True,True,True,True
-RodMech,True,True,True,True,True,True,True,True,True,True
+username,regexp-fun-number-1-when-i-miss-few-days-of-gym,deodorant-evaporator,ordered-count-of-characters,reverse-or-rotate,the-deaf-rats-of-hamelin,read-the-time,scraping-get-the-year-a-codewarrior-joined,user-class-for-banking-system,moving-average,replace-with-alphabet-position,directions-reduction
+paulapr,True,True,True,False,False,True,True,True,False,True,False
+Almugs,False,True,True,False,True,True,False,True,False,True,False
+hector-moreno,True,True,True,False,True,True,True,True,True,True,True
+potacho,True,True,False,False,True,False,False,False,True,False,False
+carlosmd14,True,True,True,True,True,True,True,True,True,True,True
+Livia Canet,True,True,False,False,False,False,False,True,True,True,True
+AlejandroFrank,True,False,True,False,True,False,True,True,True,True,False
+AlejandroPerela,True,True,True,False,True,True,True,True,True,True,False
+leyremarazuela,False,False,False,False,True,False,True,True,False,True,True
+LauraRepullo,False,False,True,False,False,False,False,False,False,True,False
+pecatade,True,True,True,True,True,True,True,True,True,True,False
+NicoST1,True,True,True,False,False,True,True,True,True,True,False
+lmartinezruizit,True,True,True,True,True,True,True,True,True,True,True
+RodMech,True,True,True,True,True,True,True,True,True,True,False
