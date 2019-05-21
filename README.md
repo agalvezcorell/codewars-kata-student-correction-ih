@@ -1,5 +1,9 @@
 # Codewars kata student correction IH
 
+## Importante
+
+Revisar el timezone porque hay desfase -> consola > Date.now()
+
 ## Intro
 
 ¿Estás cansado de tener que mirar a la pizarra para comprobar si tus alumnos han terminado la kata a tiempo? ¿Te apetece seguir flipando con la web de D3 en vez de girar el cuello hasta esa corta lista de estudiantes que han completado esa kata tan fácil? ¿Deseando que alguien haga el trabajo por tí? ¿Por programación?
