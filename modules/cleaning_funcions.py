@@ -19,3 +19,7 @@ def clean_katas(df):
     df_katas.limit = pd.to_datetime(df_katas.limit,infer_datetime_format=True)
     
     return df_katas
+
+
+def cleaning(df_students, df_katas): 
+    return df_students, clean_katas(df_katas)

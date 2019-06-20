@@ -16,3 +16,6 @@ def get_students_and_katas(students_csv='input/students.csv',
     df1 = get_csv(students_csv, students_index)
     df2 = get_csv(katas_csv, katas_index)
     return df1, df2
+
+def adquire(): 
+    return get_students_and_katas()
