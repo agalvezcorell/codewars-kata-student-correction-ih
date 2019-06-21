@@ -21,6 +21,7 @@ def user_time_kata(user, slug, completed, katas):
 def get_info_dict(df_students): 
     completed = {u: get_completed_by_user(u) for u in df_students.index}    
     
+    ## print(completed)
     res_dict = dict( [(k, v['data']) for k, v in completed.items()] )
     return res_dict
 
