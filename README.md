@@ -33,8 +33,7 @@ La primera linea son los nombres de los campos de cada kata que envías.
 3. minutes. Cantidad de tiempo en minutos que tienen para resolver. 
 
 NOTAS: 
-1. No pongáis comas donde no hagan falta. Mirad el ejemplo previo. 
-2. Si se empieza el CSV con solo una kata, dará fallo, poned 2. 
+1. Si se empieza el CSV con solo una kata, dará fallo, poned 2. 
 
 
 #### students.csv

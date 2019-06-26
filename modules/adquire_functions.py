@@ -1,8 +1,17 @@
 import pandas as pd
 
+def clean_df(df): 
+    df.columns = df.columns.str.strip() # strip column names
+    df = df.applymap(lambda x: x.strip() if isinstance(x, str) else x) # strip all columns of str type
+    return df
+
+
 def get_csv(csv, index): 
     try: 
-        df = pd.read_csv(csv).set_index(index)
+        # df = pd.read_csv(csv).set_index(index)
+        df = pd.read_csv(csv)
+        df = clean_df(df)
+        df = df.set_index(index)
     except FileNotFoundError as e: 
         return e
     return df

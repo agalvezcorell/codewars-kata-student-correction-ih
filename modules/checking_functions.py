@@ -4,6 +4,7 @@ import requests
 import json
 from bs4 import BeautifulSoup
 
+
 def get_completed_by_user(user, host='https://www.codewars.com/api/v1/users/', 
                           path='/code-challenges/completed'):
     url = host + user + path

@@ -1,8 +1,4 @@
 import pandas as pd
-# import numpy as np
-# import requests
-# import json
-# from bs4 import BeautifulSoup
 from modules.chosing_functions import display_presenter_last_kata
 
 
