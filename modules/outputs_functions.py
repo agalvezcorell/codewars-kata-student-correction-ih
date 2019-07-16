@@ -3,8 +3,10 @@ from modules.chosing_functions import display_presenter_last_kata
 
 
 def save_results(df, folder='./output/'): 
+    # CSV
     df.to_csv(folder + 'output.csv', index=True) 
     
+    # excel
     writer = pd.ExcelWriter(folder + 'output.xlsx')
     df.to_excel(writer, 'Sheet1')
     writer.save()

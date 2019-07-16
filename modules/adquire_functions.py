@@ -6,12 +6,11 @@ def clean_df(df):
     return df
 
 
-def get_csv(csv, index): 
+def get_csv(csv_file, new_index_col): 
     try: 
-        # df = pd.read_csv(csv).set_index(index)
-        df = pd.read_csv(csv)
+        df = pd.read_csv(csv_file)
         df = clean_df(df)
-        df = df.set_index(index)
+        df = df.set_index(new_index_col)
     except FileNotFoundError as e: 
         return e
     return df

@@ -12,12 +12,13 @@ Este código te cambiará la vida en este aspecto, del resto de tu vida ya te en
 
 ## Descripción
 
-Este software permite comprobar el progreso de los alumnos y sus tiempos en codewars. Está compuesto por varios archivos CSV y unos ficheros de código en Python que harán todo el trabajo. 
-
+Este algoritmo permite comprobar el progreso de los alumnos y sus tiempos en codewars. Está compuesto por varios archivos CSV y unos ficheros de código en Python que harán todo el trabajo. 
 
 ## Instrucciones
 
 ### Carpeta input
+
+Pide a tus alumnos que te hagan llegar sus usuarios de codewars. 
 #### katas.csv
 Encontrarás algo así. 
 ```
