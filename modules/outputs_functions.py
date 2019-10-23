@@ -7,6 +7,8 @@ def save_results(df, folder='./output/'):
     df.to_csv(folder + 'output.csv', index=True) 
     
     # excel
+    df=df.replace(1, 'Good')
+    df=df.replace(0, 'No')
     writer = pd.ExcelWriter(folder + 'output.xlsx')
     df.to_excel(writer, 'Sheet1')
     writer.save()
