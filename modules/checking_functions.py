@@ -56,4 +56,4 @@ def create_df_checking(df_students, df_katas):
     for user in students: 
         df_sol.loc[user] = df_res.loc[user] < df_katas.limit
     
-    return df_sol
+    return df_sol, df_res
