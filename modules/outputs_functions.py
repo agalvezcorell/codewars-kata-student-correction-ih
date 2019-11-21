@@ -22,12 +22,16 @@ def color_negative_red(x):
     color = 'red' if x == False else 'green'
     return 'color: {}'.format(color) 
 
-def display_with_colors(df): 
+def display_with_colors(df,all):
+    if not all:
+        df=df.iloc[:,-2:]
+
     df_style = df.style.applymap(color_negative_red)
+
     display(df_style)
 
 
-def outputs(df): 
+def outputs(df, all=True): 
     display_presenter_last_kata(df)       
-    display_with_colors(df)   
+    display_with_colors(df, all)   
     save_results(df)
