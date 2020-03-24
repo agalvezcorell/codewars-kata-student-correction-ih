@@ -6,6 +6,13 @@ from bs4 import BeautifulSoup
 
 CW_HOST = 'https://www.codewars.com/api/v1/users/'
 CW_RECURSE = '/code-challenges/completed'
+CW_SLUG = "https://www.codewars.com/api/v1/code-challenges/"
+
+def get_slug(id, host=CW_SLUG):
+    url = host + id
+    resp = requests.get(url)
+    resp = resp.json()
+    return resp.get("slug")
 
 
 def get_completed_by_user(user, host=CW_HOST, path=CW_RECURSE):
@@ -24,7 +31,7 @@ def user_time_kata(user, slug, completed, katas):
 def get_info_dict(df_students): 
     completed = {u: get_completed_by_user(u) for u in df_students.index}
 
-    ## print(completed)
+    # print(completed)
     res_dict = dict( [(k, v['data']) for k, v in completed.items()] )
     return res_dict
 

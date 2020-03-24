@@ -1,4 +1,5 @@
 import pandas as pd
+from modules.checking_functions import get_slug
 
 def clean_df(df): 
     df.columns = df.columns.str.strip() # strip column names
@@ -25,5 +26,13 @@ def get_students_and_katas(students_csv='input/students.csv',
     df2 = get_csv(katas_csv, katas_index)
     return df1, df2
 
+def update_slugs(katas_csv='input/katas.csv'):
+    katas = pd.read_csv(katas_csv)
+    missing_slug = set(katas[katas["slug"].isna()]["id"])
+    slugger = {id:get_slug(id) for id in missing_slug}
+    katas.loc[katas["slug"].isna(),"slug"] = katas["id"].apply(lambda id: slugger.get(id))
+    katas.to_csv('input/katas.csv',index=False)
+
 def adquire(): 
+    update_slugs()
     return get_students_and_katas()
