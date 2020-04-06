@@ -1,6 +1,12 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 modules/__pycache__/
+modules/__pycache__/__init__.cpython-36.pyc
+modules/__pycache__/adquire_functions.cpython-36.pyc
+modules/__pycache__/checking_functions.cpython-36.pyc
+modules/__pycache__/chosing_functions.cpython-36.pyc
+modules/__pycache__/cleaning_funcions.cpython-36.pyc
+modules/__pycache__/outputs_functions.cpython-36.pyc
 *.py[cod]
 *$py.class
 .DS_Store
