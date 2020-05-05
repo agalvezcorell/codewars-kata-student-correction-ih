@@ -30,3 +30,4 @@ id,slug,date,minutes
 5a5f9f80f5dc3f942b002309,schrodingers-boolean,2020-04-30T07:30:00.000Z,60.0
 5a5cdb07fd56cbdd3c00005b,unknown-amount-of-duplicates-one-missing-number,2020-05-01T07:30:00.000Z,60.0
 525f47c79f2f25a4db000025,valid-phone-number,2020-05-04T11:15:00.000Z,35.0
+559a28007caad2ac4e000083,perimeter-of-squares-in-a-rectangle,2020-05-05T07:30:00.000Z,60.0
