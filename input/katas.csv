@@ -30,3 +30,4 @@ id,slug,date,minutes
 5a5cdb07fd56cbdd3c00005b,unknown-amount-of-duplicates-one-missing-number,2020-07-10T07:30:00.000Z,65.0
 525f47c79f2f25a4db000025,valid-phone-number,2020-07-13T07:30:00.000Z,65.0
 559a28007caad2ac4e000083,perimeter-of-squares-in-a-rectangle, 2020-07-14T07:30:00.000Z,65.0
+5503013e34137eeeaa001648,give-me-a-diamond, 2020-07-15T07:00:00.000Z,65.0
