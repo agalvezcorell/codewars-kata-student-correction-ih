@@ -1,27 +1,27 @@
-username,counting-sheep-dot-dot-dot,fake-binary
-VanessaMacC,False,False
-silviaherf,True,True
-rfminguez,True,True
-PaulaNuno,False,False
-MigeruDono,False,False
-lagarto,True,True
-Marta Zavala de Diego,False,False
-llarrad,False,False
-KevsDe,True,True
-JAMS23,True,True
-Joycelili,False,False
-jorge-alamillos,False,False
-Jav1-Mart1nez,False,False
-irenelopez,True,True
-gontzalm,True,True
-FDelgadot,False,False
-Diegon8,False,True
-Diego Caulonga,False,False
-David Lazaro,False,False
-Daniel-GarciaGarcia,False,False
-CarlosSanzDGP,True,True
-charliesket,False,False
-Borja Llanos,True,True
-bmedmon,False,False
-AnaMA,True,False
-alvere,True,True
+username,counting-sheep-dot-dot-dot,fake-binary,sum-mixed-array
+VanessaMacC,False,False,False
+silviaherf,True,True,True
+rfminguez,True,True,True
+PaulaNuno,False,False,False
+MigeruDono,False,False,False
+lagarto,True,True,True
+Marta Zavala de Diego,False,False,True
+llarrad,False,False,False
+KevsDe,True,True,True
+JAMS23,True,True,True
+Joycelili,False,False,False
+jorge-alamillos,False,False,True
+Jav1-Mart1nez,False,False,False
+irenelopez,True,True,True
+gontzalm,True,True,True
+FDelgadot,False,False,False
+Diegon8,False,True,True
+Diego Caulonga,False,False,False
+David Lazaro,False,False,False
+Daniel-GarciaGarcia,False,False,False
+CarlosSanzDGP,True,True,True
+charliesket,False,False,False
+Borja Llanos,True,True,True
+bmedmon,False,False,True
+AnaMA,True,False,True
+alvere,True,True,False
