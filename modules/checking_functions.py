@@ -20,10 +20,11 @@ def get_completed_by_user(user, host=CW_HOST, path=CW_RECURSE):
     resp = requests.get(url)    
     return resp.json()
 
-def user_time_kata(user, slug, completed, katas): 
+def user_time_kata(user, id, completed, katas): 
     res = '2090-01-01T00:00:00.000Z'# default
     for data in completed[user]: 
-        if data['slug'] == slug: 
+        #print(data)
+        if data['id'] == id: 
             res = data['completedAt']
             break
     return res
@@ -46,8 +47,9 @@ def create_df_checking(df_students, df_katas):
     # cada celda es el tiempo que ese student(row) tardó en realizar la kata(column)
     # TO DO: si solo hay una kata y no una lista, da problemas. 
     for user in students: 
-        for slug in katas: 
-            df_res.loc[user, slug] = user_time_kata(user, slug, completed_katas_dict, katas)
+        for id in katas: 
+            #print(user,id)
+            df_res.loc[user, id] = user_time_kata(user, id, completed_katas_dict, katas)
     
     # convertimos las columnas a tipo Datetime
     for col in df_res.columns: 
@@ -61,4 +63,5 @@ def create_df_checking(df_students, df_katas):
     for user in students: 
         df_sol.loc[user] = df_res.loc[user] < df_katas.limit
     
+    df_sol.columns = df_katas.slug
     return df_sol, df_res
