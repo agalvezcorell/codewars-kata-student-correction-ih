@@ -1,20 +1,20 @@
-username,counting-sheep-dot-dot-dot,fake-binary
-AnaMA,True,True
-JaimeCalcedo,False,False
-jaimevazquezg,False,False
-BlueJotas,True,False
-Jesus_perez,True,True
-JoseManuel-G,True,False
-pptrv,False,False
-jm00code,True,True
-juanpe17,False,False
-leticia-sobrino,False,False
-LucianaLescano,True,False
-Marxess,False,False
-Mario Sainz,True,False
-Nuria Peñas,False,False
-patri.carrasco,True,True
-rrodcan,False,False
-sergio calero,True,False
-sgonzalainen,True,True
-Sonia Quintanar,False,False
+username,counting-sheep-dot-dot-dot,fake-binary,sum-mixed-array,deodorant-evaporator
+AnaMA,True,True,True,True
+JaimeCalcedo,False,False,True,True
+jaimevazquezg,False,False,True,True
+BlueJotas,True,False,True,True
+Jesus_perez,True,True,True,True
+JoseManuel-G,True,False,True,False
+pptrv,False,False,True,False
+jm00code,True,True,True,True
+juanpe17,False,False,True,True
+leticia-sobrino,False,False,False,False
+LucianaLescano,True,False,False,True
+Marxess,False,False,True,True
+Mario Sainz,True,False,True,False
+Nuria Peñas,False,False,True,True
+patri.carrasco,True,True,True,True
+rrodcan,False,False,True,True
+sergio calero,True,False,True,True
+sgonzalainen,True,True,True,True
+Sonia Quintanar,False,False,True,False
