@@ -1,20 +1,20 @@
-username,counting-sheep-dot-dot-dot,fake-binary,sum-mixed-array,deodorant-evaporator,user-class-for-banking-system,counting-in-the-amazon
-AnaMA,True,True,True,True,True,True
-JaimeCalcedo,False,False,True,True,True,True
-jaimevazquezg,False,False,True,True,False,True
-BlueJotas,True,False,True,True,False,True
-Jesus_perez,True,True,True,True,False,True
-JoseManuel-G,True,False,True,False,True,True
-pptrv,False,False,True,False,False,False
-jm00code,True,True,True,True,True,True
-juanpe17,False,False,True,True,True,True
-leticia-sobrino,False,False,False,False,False,True
-LucianaLescano,True,False,False,True,False,True
-Marxess,False,False,True,True,True,True
-Mario Sainz,True,False,True,False,True,True
-Nuria Peñas,False,False,True,True,True,True
-patri.carrasco,True,True,True,True,True,True
-rrodcan,False,False,True,True,True,True
-sergio calero,True,False,True,True,True,True
-sgonzalainen,True,True,True,True,True,True
-Sonia Quintanar,False,False,True,False,True,True
+username,counting-sheep-dot-dot-dot,fake-binary,sum-mixed-array,deodorant-evaporator,user-class-for-banking-system,counting-in-the-amazon,tests-results
+AnaMA,True,True,True,True,True,True,True
+JaimeCalcedo,False,False,True,True,True,False,True
+jaimevazquezg,False,False,True,True,False,False,False
+BlueJotas,True,False,True,True,False,True,False
+Jesus_perez,True,True,True,True,False,True,True
+JoseManuel-G,True,False,True,False,False,False,False
+pptrv,False,False,True,False,False,False,False
+jm00code,True,True,True,True,True,True,True
+juanpe17,False,False,True,True,False,True,False
+leticia-sobrino,False,False,False,False,False,False,False
+LucianaLescano,True,False,False,True,False,False,False
+Marxess,False,False,True,True,False,False,False
+Mario Sainz,True,False,True,False,False,False,False
+Nuria Peñas,False,False,True,True,False,False,False
+patri.carrasco,True,True,True,True,False,True,True
+rrodcan,False,False,True,True,False,True,True
+sergio calero,True,False,True,True,False,True,False
+sgonzalainen,True,True,True,True,True,True,True
+Sonia Quintanar,False,False,True,False,False,False,False
