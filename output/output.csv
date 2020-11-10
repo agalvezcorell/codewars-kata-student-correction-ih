@@ -1,20 +1,20 @@
-username,counting-sheep-dot-dot-dot,fake-binary,sum-mixed-array,deodorant-evaporator,user-class-for-banking-system,counting-in-the-amazon,tests-results,count-the-smiley-faces,see-you-next-happy-year,sql-with-harry-potter-sorting-hat-comparators
-AnaMA,True,True,True,True,True,True,True,True,True,True
-JaimeCalcedo,False,False,True,True,True,False,True,True,False,False
-jaimevazquezg,False,False,True,True,False,False,False,False,False,False
-BlueJotas,True,False,True,True,False,True,False,False,False,True
-Jesus_perez,True,True,True,True,False,True,True,True,False,True
-JoseManuel-G,True,False,True,False,False,False,False,False,False,False
-pptrv,False,False,True,False,False,False,False,False,False,False
-jm00code,True,True,True,True,True,True,True,True,True,True
-juanpe17,False,False,True,True,False,True,False,True,False,True
-leticia-sobrino,False,False,False,False,False,False,False,False,False,False
-LucianaLescano,True,False,False,True,False,False,False,True,False,False
-Marxess,False,False,True,True,False,False,False,True,False,False
-Mario Sainz,True,False,True,False,False,False,False,False,False,True
-Nuria Peñas,False,False,True,True,False,False,False,False,False,False
-patri.carrasco,True,True,True,True,False,True,True,False,True,False
-rrodcan,False,False,True,True,False,True,True,True,True,True
-sergio calero,True,False,True,True,False,True,False,False,False,False
-sgonzalainen,True,True,True,True,True,True,True,True,True,True
-Sonia Quintanar,False,False,True,False,False,False,False,False,False,False
+username,counting-sheep-dot-dot-dot,fake-binary,sum-mixed-array,deodorant-evaporator,user-class-for-banking-system,counting-in-the-amazon,tests-results,count-the-smiley-faces,see-you-next-happy-year,sql-with-harry-potter-sorting-hat-comparators,sql-basics-monsters-using-case
+AnaMA,True,True,True,True,True,True,True,True,True,True,True
+JaimeCalcedo,False,False,True,True,True,False,True,True,False,False,False
+jaimevazquezg,False,False,True,True,False,False,False,False,False,False,False
+BlueJotas,True,False,True,True,False,True,False,False,False,True,True
+Jesus_perez,True,True,True,True,False,True,True,True,False,True,True
+JoseManuel-G,True,False,True,False,False,False,False,False,False,False,False
+pptrv,False,False,True,False,False,False,False,False,False,False,False
+jm00code,True,True,True,True,True,True,True,True,True,True,True
+juanpe17,False,False,True,True,False,True,False,True,False,True,True
+leticia-sobrino,False,False,False,False,False,False,False,False,False,False,True
+LucianaLescano,True,False,False,True,False,False,False,True,False,False,False
+Marxess,False,False,True,True,False,False,False,True,False,False,False
+Mario Sainz,True,False,True,False,False,False,False,False,False,True,True
+Nuria Peñas,False,False,True,True,False,False,False,False,False,True,True
+patri.carrasco,True,True,True,True,False,True,True,False,True,False,False
+rrodcan,False,False,True,True,False,True,True,True,True,True,True
+sergio calero,True,False,True,True,False,True,False,False,False,False,False
+sgonzalainen,True,True,True,True,True,True,True,True,True,True,True
+Sonia Quintanar,False,False,True,False,False,False,False,False,False,False,False
