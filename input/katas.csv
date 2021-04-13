@@ -6,6 +6,6 @@ id,slug,date,minutes
 55b95c76e08bd5eef100001e,counting-in-the-amazon,2021-04-01T12:30:00.000Z,180.0
 599db0a227ca9f294b0000c8,tests-results,2021-04-07T12:30:00.000Z,180.0
 583203e6eb35d7980400002a,count-the-smiley-faces,2021-04-08T12:30:00.000Z,180.0
-54b724efac3d5402db00065e,decode-the-morse-code,2021-04-13T12:30:00.000Z,155.0
 5abcf0f930488ff1a6000b66,sql-with-harry-potter-sorting-hat-comparators,2021-04-14T12:30:00.000Z,135.0
 593ef0e98b90525e090000b9,sql-basics-monsters-using-case,2021-04-15T12:30:00.000Z,135.0
+54b724efac3d5402db00065e,decode-the-morse-code,2021-04-13T12:30:00.000Z,155.0
