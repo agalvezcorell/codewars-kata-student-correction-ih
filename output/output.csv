@@ -1,7 +1,7 @@
-username,counting-sheep-dot-dot-dot,fake-binary
-Vicrgallardon,False,True
-Santimoreno89,True,True
-olaya-marques,False,True
-ccastroblua,True,True
-borja Cañada,False,True
-alvarogb1919,True,True
+username,counting-sheep-dot-dot-dot,fake-binary,sum-mixed-array
+Vicrgallardon,False,True,False
+Santimoreno89,True,True,False
+olaya-marques,False,True,True
+ccastroblua,True,True,True
+borja Cañada,False,True,False
+alvarogb1919,True,True,True
